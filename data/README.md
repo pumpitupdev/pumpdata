@@ -22,6 +22,7 @@ Latest game assets and executables that are dumped and recommended to be used fo
 * 16_exc2: `102`
 * 17_zero: `103`
 * 18_nx: `108`
+* 20_nx2: ``
 
 ## Known and dumped versions
 A list of revisions of each game version that are known to us and/or dumped.
@@ -96,3 +97,9 @@ A list of revisions of each game version that are known to us and/or dumped.
 * `108`
 * `105`
 * `104`
+
+### 20_nx2: Pump it Up NX2: Next Xenesis
+* `1.56CN`
+* `1.56KR`
+* `1.54`
+* `1.50`
