@@ -22,7 +22,7 @@ Latest game assets and executables that are dumped and recommended to be used fo
 * 16_exc2: `102`
 * 17_zero: `103`
 * 18_nx: `108`
-* 20_nx2: ``
+* 20_nx2: `1.54`
 
 ## Known and dumped versions
 A list of revisions of each game version that are known to us and/or dumped.
