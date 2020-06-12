@@ -27,6 +27,21 @@ sums and compares them to tables within this repository. If you have the game da
 ./pumpdata.sh check-game-assets
 ```
 
+## Creating new checksums
+This part is only relevant for contributors.
+
+To create a new list of checks for the distribution data, i.e. packaged/zip'd data:
+```shell script
+# NX2 as an example here
+./pumpdata.sh create-checksum-dist-data ./data/20_nx2 > checksum/dist/20_nx2.md5
+```
+
+For the game asset checksums which unpacks the `game.zip` file and generates checksums of the contents:
+```shell script
+# NX2 as an example here
+./pumpdata.sh create-checksum-game-assets ./data/20_nx2 > ./checksum/game/20_nx2.md5
+```
+
 ## Contributing
 Refer to [CONTRIBUTING](CONTRIBUTING.md).
 
